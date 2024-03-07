@@ -1,1 +1,1 @@
-project group:rookie-***  parent pom
+project group: `rookie-***`  parent pom
